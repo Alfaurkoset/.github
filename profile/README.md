@@ -15,9 +15,9 @@ We have few goals at the moment, and they will change as we advance, and improve
 We wish to:
 1. Build a community where anyone can and have fun
 2. Create a business to support our community and servers
-3. provide public servers for different game titles
+3. Provide public servers for different game titles
 4. Provide free open-source hosting for new and experienced developers
-5. Provide Virtual servers for more experienced developers who wants to have more control over their host (with affordable prices)
+5. Provide Virtual servers for more experienced developers who want to have more control over their host (with affordable prices)
 
 Like we mentioned, these will not stay as our only goals. We will improve our skills as community admins, and have more ideas to support & imporve our community and other services.
 
@@ -26,4 +26,4 @@ Like we mentioned, these will not stay as our only goals. We will improve our sk
 ### What are we doing at the moment?
 
 At the moment we are focusing on creating our public front, learning about server hosting, game server administration, and community creation / administration.
-We are searcing for developers and admins as well, to make our work per person less, so we can work on more services at the time and make sure, and don't overwork any of our developers.
+We are searcing for developers and admins as well, to make our work per person less, so we can work on more services at a time and make sure, and don't overwork any of our developers.
