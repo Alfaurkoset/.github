@@ -11,6 +11,7 @@ We aim to be a small business, where we host all our public game servers and pro
 ### What are our goals?
 
 We have few goals at the moment, and they will change as we advance, and improve our skills.
+
 We wish to:
 1. Build a community where anyone can and have fun
 2. Create a business to support our community and servers
